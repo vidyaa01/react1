@@ -13,6 +13,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 button{
-  background: lightcoral;
+  background: rgb(164, 122, 122);
   padding: 10px;
 }
